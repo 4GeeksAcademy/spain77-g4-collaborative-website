@@ -8,16 +8,18 @@ body{
     margin-bottom: 4%;
   }
   
-.tagline-text {
-    position: absolute;
-    text-align: center;
-    top: 15%;
-    width: 100%;
-  }
+
+  
   
 .tagline-text h1, .tagline-text h2 {
     color: #242323;
     margin: 0;
+  }
+  .tagline-text {
+    position: absolute;
+    text-align: center;
+    top: 15%;
+    width: 100%;
   }
   
 .tagline-text h1 {
